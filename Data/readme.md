@@ -17,4 +17,10 @@ Ils se component de 6 columns :
 5 – txt : Le texte du tweet 
 
 Voici un extrait de notre data qui compose de 10 lignes et 6 colonnes (target, id, date, query, username, txt) :
+![Picture1.png](https://github.com/Abdelkabir-menani/Test_project/blob/main/Images/Picture1.png)
 
+Voilà leurs types :
+
+![Picture2.png](https://github.com/Abdelkabir-menani/Test_project/blob/main/Images/Picture2.png)
+
+Cette base de données a été automatiquement extraite par opposition à ce que les humains annotent chaque tweet avec sa polarité. Dans leur approche, on supposait que tout tweet avec des émoticônes positives, comme :), était positif, et les tweets avec des émoticônes négatives comme :(, étaient négatifs. Et on a utilisé l'API Twitter Search pour collecter ces tweets en utilisant la recherche par mot-clé.
