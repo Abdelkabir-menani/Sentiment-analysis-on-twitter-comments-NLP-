@@ -1,6 +1,3 @@
-# Test_project
-
-
 # Plan :
 I.	Présentation du projet et ses objectifs
 II.	Outils et librairies utilisés :
