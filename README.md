@@ -1,13 +1,22 @@
 # Plan :
 I.	Présentation du projet et ses objectifs
+
 II.	Outils et librairies utilisés :
+
 1.	Outils utilises
+
 2.	Libraries utilises
+
 III.	Identification des sources de données
+
 IV.	Démarche d'implémentation du projet
+
 1.	Data Viz
+
 2.	Data prep
+
 3.	Conception et Modélisation 
+
 4.	Implémentation des scrapers et API de collection
 
 
