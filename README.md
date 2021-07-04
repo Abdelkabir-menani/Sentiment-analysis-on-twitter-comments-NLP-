@@ -367,39 +367,7 @@ Quand on clique sur Dashboard en haut, le dashboard qu’on a détaillé auparav
 
 ![Screenshot_44.png](https://github.com/Abdelkabir-menani/Sentiment-analysis-on-twitter-comments/blob/main/Images/Screenshot_44.png)
 
-XI.	Conclusion :
+## XI.	Conclusion :
 
 De nos jours, l'analyse des sentiments ou l'exploration d'opinions est un sujet brûlant en apprentissage automatique. Nous sommes encore loin de détecter très précisément les sentiments d'un corpus de textes en raison de la complexité dans la langue anglaise et encore plus si l'on considère d'autres langues telles que Chinois.
 Dans ce projet, on a essayé de faciliter aux entreprises la connaissance des sentiments de leurs clients utilisateurs de twitter envers un post donné dans la platforme en utilisant le modèle BERT tout en l’intégrant dans une application web et finalement une dashboard qui facilite la compréhension des résultats. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
